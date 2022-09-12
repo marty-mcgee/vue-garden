@@ -1,6 +1,6 @@
 {
   "name": "vue-garden",
-  "version": "0.7.8",
+  "version": "0.7.9",
   "description": "ThreeD Garden on Nuxt 3 Vue Vite Pinia Three JS",
   "author": "Marty McGee, Company Juice",
   "license": "MIT",
